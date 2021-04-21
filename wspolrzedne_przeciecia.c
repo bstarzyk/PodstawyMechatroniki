@@ -69,6 +69,7 @@ int main(){
             }
         }
     }
+    printf("Przykładowa zmiana w kodzie");
     return 0;
 }
 
